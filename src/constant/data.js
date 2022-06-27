@@ -1,0 +1,51 @@
+export const myWorkData = [
+  {
+    name: "Tech Anda",
+    url: "/images/techAnda1.png",
+    title: "My Work",
+    link: "https://imfarruk.github.io/Techee_Website_In_ReactJS",
+    codes: "https://www.github.com/imfarruk/Techee_Website_In_ReactJS",
+  },
+  {
+    name: "Live Weather",
+    url: "/images/contact.png",
+    title: "My Work",
+    link: "https://imfarruk.github.io/Live-Weather-Search/",
+    codes: "https://github.com/imfarruk/Live-Weather-Search",
+  },
+  {
+    name: "Flipkart Clone",
+    url: "/images/flipkartclone.png",
+    title: "My Work",
+    link: "https://imfarruk.github.io/Flipkart_Clone/",
+    codes: "https://github.com/imfarruk/Flipkart_Clone",
+  },
+  {
+    name: "Blogging ",
+    url: "/images/blogging_site.png",
+    title: "My Work",
+    link: "https://imfarruk.github.io/Blogging_Website/",
+    codes: "https://github.com/imfarruk/Blogging_Website",
+  },
+  {
+    name: "Todoapp ",
+    url: "/images/todo_app.png",
+    title: "My Work",
+    link: "https://imfarruk.github.io/Todoapp/",
+    codes: "https://github.com/imfarruk/Todoapp",
+  },
+  {
+    name: "Weather App",
+    url: "/images/weatherapp4.png",
+    title: "My Work",
+    link: "https://imfarruk.github.io/Todoapp/",
+    codes: "https://github.com/imfarruk/Weather-App-By-ExpressJS",
+  },
+  {
+    name: "Inc/Dec with Redux",
+    url: "/images/inc_dec.png",
+    title: "My Work",
+    link: "https://imfarruk.github.io/Increment_Decrement_with_Redux/",
+    codes: "https://github.com/imfarruk/Increment_Decrement_with_Redux",
+  },
+];
